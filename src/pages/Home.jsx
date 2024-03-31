@@ -68,7 +68,7 @@ function Home() {
           <Link to="https://calendly.com/innovatixdigitalmedia/innovatix-digital-media">
             <button
               type="submit"
-              class="bg-green-300 text-zinc-950 py-2 px-4 rounded border-gray-400 shadow-sm  hover:text-white hover:bg-blue-800 ml-20"
+              class="bg-green-300 text-zinc-950 py-2 px-4 rounded border-gray-400 shadow-sm  hover:text-white hover:bg-blue-800 lg:ml-60 sm:ml-20"
             >
               Book a Call
             </button>
