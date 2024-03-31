@@ -40,7 +40,7 @@ function Home() {
   });
 
   return (
-    <div className="dark:bg-neutral-700">
+    <div className="">
       <div
         id="home"
         className="hero grid gap-2 grid-cols-2 sm:grid-cols-1 lg:grid-cols-2 "
@@ -53,7 +53,7 @@ function Home() {
           />
         </div>
         <div className="content p-5 sm:p-10 lg:p-20 shrink-0  sm:shrink">
-          <h1 className=" font-dmserif text-3xl md:text-4xl md:font-sans lg:text-8xl font-medium mb-5 md:mb-5 lg:mb-10">
+          <h1 className=" font-dmserif text-3xl md:text-4xl md:font-sans lg:text-8xl font-medium mb-5 md:mb-5 lg:mb-10 sm:text-center">
             We're really <span class="text-green-500"> good at growing</span>{' '}
             companies{' '}
             {/* <ReactTyped
